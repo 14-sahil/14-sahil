@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsagaratechnology.medium.com%2F5-important-reasons-why-you-should-use-python-7d8b4d80ea8b&psig=AOvVaw19NSMKD9bZPZ1yKh5KvNCn&ust=1702751839800000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDRuqSLkoMDFQAAAAAdAAAAABAQ)](https://14-sahil.io)
+
 <h1 align="center">Hi 👋, I'm Sahil karamkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />

@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **Full Stack development**
 
-- 💬 Ask me about **C++ | MYSQL | MongoDB | Data structure and algorithm**
+- 💬 Ask me about **C++ | Frontend | MYSQL | MongoDB | Data structure and algorithm**
 
 - 📫 How to reach me **karamkarsahil14@gmail.com**
 

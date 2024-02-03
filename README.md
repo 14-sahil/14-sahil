@@ -14,7 +14,7 @@
 - 📫 How to reach me **karamkarsahil14@gmail.com**
 
 - ⚡ Fun fact **I feel happy to communicate with new people**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=14-sahil&label=Profile%4views&color=0e75b6&style=flat" alt="14-sahil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=14-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="14-sahil" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahil karamkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil karamkar" height="30" width="40" /></a>

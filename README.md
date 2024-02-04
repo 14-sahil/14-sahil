@@ -11,9 +11,6 @@
 
 - 💬 Ask me about **C++ | Frontend | MYSQL | MongoDB | Data structure and algorithm**
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=14-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="14-sahil"/></p>
-
 - 📫 How to reach me **karamkarsahil14@gmail.com**
 
 - ⚡ Fun fact **I feel happy to communicate with new people**

@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="360" height="250" src="https://github.com/14-sahil/14-sahil/blob/main/mainto.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=14-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="14-sahil" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=14-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="14-sahil" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -37,7 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=14-sahil&show_icons=true&locale=en" alt="14-sahil" /></p>
 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=14-sahil&" alt="14-sahil" /></p>
 
 

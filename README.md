@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **karamkarsahil14@gmail.com**
 
-- ⚡ Fun fact **I feel happy to communicate with new people**
+- ⚡ Fun fact **I Really Enjoy Working Hard...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
